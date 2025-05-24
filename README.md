@@ -24,7 +24,7 @@ Achieved approximately **90% accuracy** in classifying stress levels using SVM a
 
 ## 📁 Structure
 
-- `COEN691_ECG_GSR.ipynb` – Main notebook with all analysis
+- `stress_detection_analysis.ipynb` – Main notebook with all analysis
 
 ## 👩‍💻 Author
 
